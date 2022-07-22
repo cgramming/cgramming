@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I can also make video games in unity and plugins in minecraft**
 
+I have spent many years developing my skill in programming starting from the age of 9, Im still not done learning and improving myself, I have my whole life to learn and hone my skill as a programmer.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/cgramming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cgramming" height="30" width="40" /></a>
